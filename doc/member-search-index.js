@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"GameTree","l":"bestMoves()"},{"p":"<Unnamed>","c":"GameTree","l":"GameTree(HexBoard, char, int)","u":"%3Cinit%3E(HexBoard,char,int)"}];updateSearchResults();
